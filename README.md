@@ -1,2 +1,2 @@
-# DSA-c-
+# DSA-c++
 from scratch to DSA
